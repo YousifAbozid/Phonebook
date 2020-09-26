@@ -4,9 +4,9 @@
 
 This project made with React as a Front-End, and Node.js using Exepress.js framework as a Back-End, and the data is stored in MongoDB database.
 
-<br/> This project was made during my studies in <a href="https://fullstackopen.com/en">Full Stack Open 2020</a> course.
+This project was made during my studies in <a href="https://fullstackopen.com/en">Full Stack Open 2020</a> course.
 
-<br/> This MOOC was introduced by the University of Helsinki in Finland by lecturers in Computer Science Department, and it's free for anyone around the world to join this MOOC.
+This MOOC was introduced by the University of Helsinki in Finland by lecturers in Computer Science Department, and it's free for anyone around the world to join this MOOC.
 
 ### How to use
 
