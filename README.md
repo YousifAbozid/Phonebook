@@ -10,7 +10,15 @@ This MOOC was introduced by the University of Helsinki in Finland by lecturers i
 
 ### How to use
 
-You can freely use this app and make your own version of it.
+You are free to use this app and make your own version of it.
+
+simply install it and run:
+
+```bash
+npm install
+npm run start
+```
+
 But first you need to make a little modifications to this app so it can store your own numbers to your own database, I'm using <a href="https://www.mongodb.com/cloud/atlas">MongoDB Atlas</a> for storing my data, I recommend to you using the same.
 
 Also you have to create <i>.env</i> file in the root of the app to store your environment variables for safe keeping.
